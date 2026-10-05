@@ -1,0 +1,8 @@
+.pi-profile/auth.json
+.pi-profile/models.json
+.pi-profile/models-store.json
+.pi-profile/sessions/
+.pi-profile/extensions/visual-tools/node_modules/
+lessons/*.md
+viz/*
+!viz/.gitkeep
